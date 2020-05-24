@@ -7,13 +7,13 @@
     <!-- Opcional-Mensagem de redirecionamento
 	<p>
         <h1>Você está sendo redirecionado para para o link:
-	<a href="https://everve.net/ref/144743/">Everve.net/</a>
+	<a href="Seu link aqui">Nome do site</a>
 	</h1>
 	
     	</p>
     -->
     <script>
-        window.location.href='https://everve.net/ref/144743/';
+        window.location.href='https://wintub.com/?r=1496377';
     </script>
 
 </body>
